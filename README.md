@@ -1,4 +1,4 @@
-# Introduction to Quantum Computing — Grover's Algorithm
+# Introdução à Computação Quântica — Algoritmo de Grover
  
 Implementações do Algoritmo de Grover usando Qiskit. 
 Os projetos foram organizados da seguinte forma: simulação ideal com statevector, simulação com modelo de ruído realista do hardware IBM e execução direta em processador quântico real (ibm_fez).
